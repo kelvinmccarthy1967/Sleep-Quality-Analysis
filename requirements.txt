@@ -1,0 +1,10 @@
+
+name: sleep-quality-r
+dependencies:
+  - r-base=4.3
+  - r-tidyverse
+  - r-caret
+  - r-randomforest
+  - r-ggplot2
+  - r-corrplot
+  - r-rmarkdown
